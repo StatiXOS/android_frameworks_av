@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a79c7d7_bde31cc8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-08-10T13:44:50Z",
+      "side": 1,
+      "message": "This patch properly fixes the infamous auto-unpausing bug on YouTube for lahaina based platforms.",
+      "revId": "16ae274b518025dc8061ea3d23825bd0c5751f04",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
